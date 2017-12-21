@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>qingma</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://qingma.com/"/>
+  <updated>2017-12-21T08:34:39.000Z</updated>
+  <id>http://qingma.com/</id>
+  
+  <author>
+    <name>qingma</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello Hexo</title>
+    <link href="http://qingma.com/2017/12/21/Hello-Hexo/"/>
+    <id>http://qingma.com/2017/12/21/Hello-Hexo/</id>
+    <published>2017-12-21T08:33:00.000Z</published>
+    <updated>2017-12-21T08:34:39.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://qingma.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://qingma.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://qingma.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://qingma.com/2017/12/21/hello-world/"/>
+    <id>http://qingma.com/2017/12/21/hello-world/</id>
+    <published>2017-12-21T05:47:16.000Z</published>
+    <updated>2017-12-21T07:33:39.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Testing" scheme="http://qingma.com/categories/Testing/"/>
+    
+    
+      <category term="Testing" scheme="http://qingma.com/tags/Testing/"/>
+    
+      <category term="Another Tag" scheme="http://qingma.com/tags/Another-Tag/"/>
+    
+  </entry>
+  
+</feed>
