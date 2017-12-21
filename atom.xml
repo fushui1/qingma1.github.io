@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://qingma.com/"/>
-  <updated>2017-12-21T08:34:39.000Z</updated>
+  <updated>2017-12-21T09:45:18.000Z</updated>
   <id>http://qingma.com/</id>
   
   <author>
@@ -17,11 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello Hexo</title>
-    <link href="http://qingma.com/2017/12/21/Hello-Hexo/"/>
-    <id>http://qingma.com/2017/12/21/Hello-Hexo/</id>
-    <published>2017-12-21T08:33:00.000Z</published>
-    <updated>2017-12-21T08:34:39.000Z</updated>
+    <title>makedown常见操作</title>
+    <link href="http://qingma.com/2017/12/21/makedown/"/>
+    <id>http://qingma.com/2017/12/21/makedown/</id>
+    <published>2017-12-21T09:32:20.000Z</published>
+    <updated>2017-12-21T09:45:18.000Z</updated>
     
     <summary type="html">
     
@@ -29,18 +29,42 @@
       
         
         
-          &lt;h2 id=&quot;test&quot;&gt;&lt;a href=&quot;#test&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;MakeDown十一种基本用法&quot;&gt;&lt;a href=&quot;#MakeDown十一种基本用法&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
-      <category term="Testing" scheme="http://qingma.com/categories/Testing/"/>
+      <category term="makedown" scheme="http://qingma.com/categories/makedown/"/>
     
     
-      <category term="Testing" scheme="http://qingma.com/tags/Testing/"/>
+      <category term="makedown" scheme="http://qingma.com/tags/makedown/"/>
     
-      <category term="Another Tag" scheme="http://qingma.com/tags/Another-Tag/"/>
+  </entry>
+  
+  <entry>
+    <title>Command Of Hexo</title>
+    <link href="http://qingma.com/2017/12/21/command/"/>
+    <id>http://qingma.com/2017/12/21/command/</id>
+    <published>2017-12-21T09:29:34.000Z</published>
+    <updated>2017-12-21T09:41:09.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;hexo现在支持更加简单的命令格式了，比如：&quot;&gt;&lt;a href=&quot;#hexo现在支持更加简单的命令格式了，比如：&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Command" scheme="http://qingma.com/categories/Command/"/>
+    
+    
+      <category term="Command" scheme="http://qingma.com/tags/Command/"/>
     
   </entry>
   
